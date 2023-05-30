@@ -1,5 +1,11 @@
 # Change Log
 
+## 4.2.12
+
+### Patch Changes
+
+- ae8d4ed6: Cannot find module 'xxx' with esbuild 0.17 and linaria 4.2
+
 ## 4.2.11
 
 ### Patch Changes
